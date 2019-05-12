@@ -1,0 +1,10 @@
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\bin\Debug\Project_Pelykh.exe.config
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\bin\Debug\Project_Pelykh.exe
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\bin\Debug\Project_Pelykh.pdb
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.csprojAssemblyReference.cache
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.Form1.resources
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.Properties.Resources.resources
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.csproj.GenerateResource.cache
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.csproj.CoreCompileInputs.cache
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.exe
+D:\Desktop\POB\Lab\Pelykh_Project\Project_Pelykh\Project_Pelykh\obj\Debug\Project_Pelykh.pdb
